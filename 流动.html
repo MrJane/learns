@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        div{
+            margin: 10px auto;
+        }
+        .flow-colorful{
+            max-width: 600px;
+            height: 150px;
+            background: linear-gradient(to right, red, yellow, lime, aqua, blue, fuchsia);
+            animation: hue 6s linear infinite;
+        }
+        @keyframes hue {
+            from {
+                filter: hue-rotate(0deg);
+            }
+            to   {
+                filter: hue-rotate(360deg);
+            }
+        }
+        .flow-twill{
+            margin-top: 20px;
+            padding-right: 30%;
+            height: calc(1.4142 * 20px);
+            background: repeating-linear-gradient(45deg, teal, teal 10px, transparent 11px, transparent 19px, teal 20px);
+            background-clip: content-box;
+            animation: twill 1s linear infinite;
+            position: relative;
+        }
+        .flow-twill::before {
+            content: '';
+            position: absolute;
+            width: 100%; height: 100%;
+            background: linear-gradient(rgba(0,0,0,.5), hsla(0,0%,100%,.5), rgba(0,0,0,.5));
+        }
+        @keyframes twill {
+            from {
+                background-position: 0 0;
+            }
+            to {
+                background-position: 0 calc(-1 * 1.4142 * 40px);
+            }
+        }
+        .flow-wave {
+            padding: 5px 0;
+        }
+        .flow-wave:hover,
+        .flow-wave:focus,.flow-wave-demo {
+            background: radial-gradient(circle at 10px -7px, transparent 8px, currentColor 8px, currentColor 9px, transparent 9px) repeat-x,
+            radial-gradient(circle at 10px 27px, transparent 8px, currentColor 8px, currentColor 9px, transparent 9px) repeat-x;
+            background-size: 20px 20px;
+            background-position: -10px calc(100% + 16px), 0 calc(100% - 4px);
+            animation: waveFlow 1s infinite linear;
+        }
+        @keyframes waveFlow {
+            from { background-position-x: -10px, 0; }
+            to { background-position-x: -30px, -20px; }
+        }
+    </style>
+</head>
+<body>
+<div class="flow-colorful"></div>
+<div class="flow-twill"></div>
+<a href="javascript:" class="flow-wave">hover我（移动端按下）</a>
+<div class="flow-wave-demo">4</div>
+
+</body>
+</html>

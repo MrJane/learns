@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        .clip-img-x {
+            display: inline-block;
+            overflow: hidden;
+            position: relative;
+        }
+        .clip-img {
+            display: block;
+            width: 100%;
+        }
+        .clip-shape {
+            width: 150px; height: 150px;
+            /*outline （轮廓）是绘制于元素周围的一条线，位于边框边缘的外围，可起到突出元素的作用。
+            *注释：轮廓线不会占据空间，也不一定是矩形。
+            在浏览器里，当鼠标点击或使用Tab键让一个链接或者一个radio获得焦点的时候，该元素将会被一个轮廓虚线框围绕。这个轮廓虚线框就是 outline 。
+            outline 与 border 的区别：
+            border 可应用于几乎所有有形的html元素，而 outline 是针对链接、表单控件和ImageMap等元素设计。从而另一个区别也可以推理出，那就是： outline 的效果将随元素的 focus 而自动出现，相应的由 blur 而自动消失。这些都是浏览器的默认行为，无需JavaScript配合CSS来控制
+            另外outline 不会象border那样影响元素的尺寸或者位置，outline不占据空间。
+            */
+
+            outline: 9999px solid rgba(0,0,0,.5);
+            position: absolute;
+            left: 0; right: 0; top: 0; bottom: 0;
+            margin: auto;
+            cursor: move;
+        }
+    </style>
+</head>
+<body>
+<div class="clip-img-x">
+    <div class="clip-shape"></div>
+    <img src="http://pic1.win4000.com/wallpaper/c/53cdd1f7c1f21.jpg" class="clip-img">
+</div>
+</body>
+</html>
