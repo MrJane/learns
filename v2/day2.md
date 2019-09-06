@@ -1,7 +1,7 @@
 ## 复习
 ###1.1 React中没有双向绑定
 React没有双向绑定。我们来看看Vue.js框架中，是如何处理一个值和滑动条的关系的。
-```
+```html
  <div id="app-container">
         <input type="range" min="0" max="255" v-model="a" />
         {{a}}

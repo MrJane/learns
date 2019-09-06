@@ -2,62 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77419ef5-bdeb-47ec-8cb6-77c18e2f3292" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v2/day2.md" beforeDir="false" afterPath="$PROJECT_DIR$/v2/day2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/爱前端.md" beforeDir="false" afterPath="$PROJECT_DIR$/爱前端.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/爱前端.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="3067">
-                <caret line="1485" lean-forward="true" selection-start-line="1485" selection-end-line="1485" />
-                <folding>
-                  <element signature="e#0#8#0" />
-                  <element signature="e#2905#2920#0" />
-                  <element signature="e#5420#5436#0" />
-                  <element signature="e#5799#5811#0" />
-                  <element signature="e#6860#6869#0" />
-                  <element signature="e#18673#18688#0" />
-                  <element signature="e#19438#19451#0" />
-                  <element signature="e#0#26#0" expanded="true" />
-                  <element signature="e#20041#20053#0" />
-                  <element signature="e#22295#22311#0" />
-                  <element signature="e#22366#22382#0" />
-                  <element signature="e#23209#23235#0" />
-                  <element signature="e#23575#23597#0" />
-                  <element signature="e#24572#24586#0" />
-                  <element signature="e#8#34#0" expanded="true" />
-                  <element signature="e#25613#25640#0" />
-                  <element signature="e#0#26#0" expanded="true" />
-                  <element signature="e#26510#26522#0" />
-                  <element signature="e#26696#26719#0" />
-                  <element signature="e#26696#26719#0" />
-                  <element signature="e#26596#26608#0" />
-                  <element signature="e#0#26#0" expanded="true" />
-                  <element signature="e#27270#27283#0" />
-                  <element signature="e#27459#27474#0" />
-                  <element signature="e#28166#28185#0" />
-                  <element signature="e#28703#28722#0" />
-                  <element signature="e#29347#29357#0" />
-                  <element signature="e#29951#29979#0" />
-                  <element signature="e#0#26#0" expanded="true" />
-                  <element signature="e#0#40#0" expanded="true" />
-                </folding>
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -69,43 +22,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/爱前端.md" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-2" />
-    <option name="width" value="1374" />
-    <option name="height" value="715" />
-  </component>
   <component name="ProjectId" id="1QLrI6bBFSawJJkNYojPD4ko1mx" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="learns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learns" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
-  </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="F:/project/react-study/aiqianduan/V1/docs" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -131,80 +53,22 @@
       <updated>1567560634362</updated>
       <workItem from="1567560635745" duration="15186000" />
       <workItem from="1567683720372" duration="4786000" />
+      <workItem from="1567734217186" duration="16254000" />
     </task>
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4786000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12434141" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/爱前端.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="3067">
-            <caret line="1485" lean-forward="true" selection-start-line="1485" selection-end-line="1485" />
-            <folding>
-              <element signature="e#0#8#0" />
-              <element signature="e#2905#2920#0" />
-              <element signature="e#5420#5436#0" />
-              <element signature="e#5799#5811#0" />
-              <element signature="e#6860#6869#0" />
-              <element signature="e#18673#18688#0" />
-              <element signature="e#19438#19451#0" />
-              <element signature="e#0#26#0" expanded="true" />
-              <element signature="e#20041#20053#0" />
-              <element signature="e#22295#22311#0" />
-              <element signature="e#22366#22382#0" />
-              <element signature="e#23209#23235#0" />
-              <element signature="e#23575#23597#0" />
-              <element signature="e#24572#24586#0" />
-              <element signature="e#8#34#0" expanded="true" />
-              <element signature="e#25613#25640#0" />
-              <element signature="e#0#26#0" expanded="true" />
-              <element signature="e#26510#26522#0" />
-              <element signature="e#26696#26719#0" />
-              <element signature="e#26696#26719#0" />
-              <element signature="e#26596#26608#0" />
-              <element signature="e#0#26#0" expanded="true" />
-              <element signature="e#27270#27283#0" />
-              <element signature="e#27459#27474#0" />
-              <element signature="e#28166#28185#0" />
-              <element signature="e#28703#28722#0" />
-              <element signature="e#29347#29357#0" />
-              <element signature="e#29951#29979#0" />
-              <element signature="e#0#26#0" expanded="true" />
-              <element signature="e#0#40#0" expanded="true" />
-            </folding>
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
