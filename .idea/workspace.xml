@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="77419ef5-bdeb-47ec-8cb6-77c18e2f3292" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="77419ef5-bdeb-47ec-8cb6-77c18e2f3292" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +14,8 @@
         <entry file="file://$PROJECT_DIR$/爱前端.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="3067">
-                <caret line="1485" lean-forward="true" selection-start-line="1485" selection-end-line="1485" />
+              <first_editor relative-caret-position="-543">
+                <caret line="1408" column="40" lean-forward="true" selection-start-line="1408" selection-start-column="40" selection-end-line="1408" selection-end-column="40" />
                 <folding>
                   <element signature="e#0#8#0" />
                   <element signature="e#2905#2920#0" />
@@ -130,12 +127,12 @@
       <option name="presentableId" value="Default" />
       <updated>1567560634362</updated>
       <workItem from="1567560635745" duration="15186000" />
-      <workItem from="1567683720372" duration="4786000" />
+      <workItem from="1567683720372" duration="5098000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4786000" />
+    <option name="totallyTimeSpent" value="5098000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -167,8 +164,8 @@
     <entry file="file://$PROJECT_DIR$/爱前端.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="3067">
-            <caret line="1485" lean-forward="true" selection-start-line="1485" selection-end-line="1485" />
+          <first_editor relative-caret-position="-543">
+            <caret line="1408" column="40" lean-forward="true" selection-start-line="1408" selection-start-column="40" selection-end-line="1408" selection-end-column="40" />
             <folding>
               <element signature="e#0#8#0" />
               <element signature="e#2905#2920#0" />
